@@ -1,8 +1,10 @@
-### ⚡ About me
+## ⚡ About me
 
 I'm a professional software engineer **since 2014** with a passion for great products creation, software quality, and mentoring. Have experience in solutions creation and dev processes establishment.
 
-I have worked with various technologies and mainly focused on, but not limited to, .NET and front-end (Angular, React). I like to work in product teams with the ability to fully own the development process (from the first line of code to production deployment), do not really like outstaff.
+I have worked with various technologies and mainly focused on, but not limited to, .NET and front-end (Angular, React).
+
+I like to work in product teams with the ability to fully own the development process (from the first line of code to production deployment), do not really like outstaff.
 
 🔎 Find me on:
 
@@ -12,13 +14,13 @@ I have worked with various technologies and mainly focused on, but not limited t
 * [npmjs](https://www.npmjs.com/~mishani0x0ef)
 * [Nuget](https://www.nuget.org/profiles/mykhailo.romaniuk)
 
-### 🏭 Industries
+## 🏭 Industries
 
 I mainly had worked in the next areas: retail and wholesale, information technology and services, finances.
 
-### 💪 Technical skills
+## 💪 Technical skills
 
-#### Basics
+### Basics
 
 | Category                           | Skills                                                               |
 | ---------------------------------- | -------------------------------------------------------------------- |
@@ -26,9 +28,9 @@ I mainly had worked in the next areas: retail and wholesale, information technol
 | Security                           | `OWASP`, `SSO`, `Auth0`                                              |
 | Methodologies                      | `Agile`, `Scrum`, `SAFe` `Kanban`                                    |
 
-> I believe that regardless of the role (back-end or front-end) engineers must know software development basics, be able to choose the correct data structure, follow SOLID and recognize patterns they follow.
+> 💡 I believe that regardless of the role (back-end or front-end) engineers must know software development basics, be able to choose the correct data structure, follow SOLID and recognize patterns they follow.
 
-#### Back-end
+### Back-end
 
 | Category             | Skills                                                 |
 | -------------------- | ------------------------------------------------------ |
@@ -38,9 +40,9 @@ I mainly had worked in the next areas: retail and wholesale, information technol
 | Testing              | `Moq`, `NUnit`, `NSubstitute`                          |
 | Other                | a bit of `Python` with `Flask`                         |
 
-> I strongly believe that API should be easy to use, must have good public documentation (e.g Swagger), and should be easy to build, test, and maintain.
+> 💡 I strongly believe that API should be easy to use, must have good public documentation (e.g Swagger), and should be easy to build, test, and maintain.
 
-#### Front-end
+### Front-end
 
 | Category            | Skills                                     |
 | ------------------- | ------------------------------------------ |
@@ -52,16 +54,16 @@ I mainly had worked in the next areas: retail and wholesale, information technol
 | Bundlers            | `Webpack`                                  |
 | Other               | `RxJS`, `Storybook`, `axios`               |
 
-#### Desktop
+### Desktop
 
 | Category | Skills                                                      |
 | -------- | ----------------------------------------------------------- |
 | General  | `WPF`, `WinForms`                                           |
 | Other    | Well, I have tried `Electron` for PoC, but it's not count 😀 |
 
-> `WPF` and desktop was my passion at the start of my career, lately, I have switched to web but still love desktop.
+> 💡 `WPF` and desktop was my passion at the start of my career, lately, I have switched to web but still love desktop.
 
-### 👋 Soft skills
+## 👋 Soft skills
 
 * Ability to **communicate clearly**, raise questions, and proactively communicate about the problem, until a solution is found
 * Introduction of **new processes** into the dev teams
@@ -71,7 +73,23 @@ I mainly had worked in the next areas: retail and wholesale, information technol
 * Setup of **quality gates**
 * Coordinate work between streams (back-end, front-end, QA, DevOps)
 * **Mentoring, leadership**
-* **Documentation** skills - ability to explain things with diagrams and good documentation 
+* **Documentation** skills - ability to explain things with diagrams and good documentation
+
+## ⏱️ Experience
+
+### 🌟 Subscriptions and accounts management system
+
+| Category         |                                                                                                                                                                                                                                                                               |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Duration         | more than 1 year *(Nov 2020 - now)*                                                                                                                                                                                                                                           |
+| Customer         | US software company that works with screen recording and capturing                                                                                                                                                                                                            |
+| Project          | Software system for user accounts and product subscriptions management. With this system users and admins can easily manage their software subscriptions and keys. The system exists in a larger ecosystem of microservices and 3-d party sub-system and integrate with them. |
+| Team size        | ~25 team members                                                                                                                                                                                                                                                              |
+| Role             | Front-end lead, Team lead                                                                                                                                                                                                                                                     |
+| Responsibilities | Designing front-end applications, improvement of development processes, managing front-end stream (4 devs) and one of product sub-teams                                                                                                                                       |
+| Main achivements | Unit testing introduction and quality gates setup; reduced code duplication and maintenance cost by integrating monorepo approach                                                                                                                                             |
+| Tools and techs  | React, TypeScript, Mobx, LESS, Webpack, Azure                                                                                                                                                                                                                                 |
+
 
 <!--
 **mishani0x0ef/mishani0x0ef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
