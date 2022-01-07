@@ -10,9 +10,9 @@ I like to work in product teams with the ability to fully own the development pr
 
 * [StackOverflow](https://stackoverflow.com/users/7597651/mykhailo-romaniuk)
 * [LinkedIn](https://www.linkedin.com/in/mykhailo-romaniuk-16133aa4/)
-* [Medium](https://medium.com/@mishani0x0ef)
-* [npmjs](https://www.npmjs.com/~mishani0x0ef)
-* [Nuget](https://www.nuget.org/profiles/mykhailo.romaniuk)
+* [Medium](https://medium.com/@mishani0x0ef) (my articles)
+* [npmjs](https://www.npmjs.com/~mishani0x0ef) (my packages)
+* [Nuget](https://www.nuget.org/profiles/mykhailo.romaniuk) (my packages)
 
 ## 🏭 Industries
 
@@ -135,6 +135,12 @@ Ivano-Frankivsk National Technical University of Oil and Gas, Institute of Infor
 
 
 Ukraine, Ivano-Frankivsk, 15 Karpatska St.
+
+## 🌐 Languages
+
+🇬🇧 English – advanced
+
+🇺🇦 Ukrainian – native
 
 <!--
 **mishani0x0ef/mishani0x0ef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
