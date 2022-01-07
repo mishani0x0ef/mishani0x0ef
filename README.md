@@ -127,6 +127,15 @@ I mainly had worked in the next areas: retail and wholesale, information technol
 | Responsibilities | Maintaining existing and creating new microservices and web solutions. Communication with other scrum teams for service integrations. |
 | Tools and techs  | `.NET`, `ASP.NET`, `Web Forms`, `jQuery`, `KnockoutJS`, `Angular`, `TFS`                                                              |
 
+## 🎓 Education
+
+**MS in Computer Networks and Systems**
+
+Ivano-Frankivsk National Technical University of Oil and Gas, Institute of Information Technologies.
+
+
+Ukraine, Ivano-Frankivsk, 15 Karpatska St.
+
 <!--
 **mishani0x0ef/mishani0x0ef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
