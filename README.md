@@ -32,27 +32,27 @@ I mainly had worked in the next areas: retail and wholesale, information technol
 
 ### Back-end
 
-| Category             | Skills                                                 |
-| -------------------- | ------------------------------------------------------ |
-| General              | `C#`, `ASP.NET Web API`, `ASP.NET WebForms`, `ADO.NET` |
-| ORMs                 | `Dapper`                                               |
-| Protocols ans styles | `REST`, `OData`, `Protobuf`                            |
-| Testing              | `Moq`, `NUnit`, `NSubstitute`                          |
-| Other                | a bit of `Python` with `Flask`                         |
+| Category             | Skills                                                  |
+| -------------------- | ------------------------------------------------------- |
+| General              | `C#`, `ASP.NET Web API`, `ASP.NET Web Forms`, `ADO.NET` |
+| ORMs                 | `Dapper`                                                |
+| Protocols ans styles | `REST`, `OData`, `Protobuf`                             |
+| Testing              | `Moq`, `NUnit`, `NSubstitute`                           |
+| Other                | a bit of `Python` with `Flask`                          |
 
 > 💡 I strongly believe that API should be easy to use, must have good public documentation (e.g Swagger), and should be easy to build, test, and maintain.
 
 ### Front-end
 
-| Category            | Skills                                     |
-| ------------------- | ------------------------------------------ |
-| General             | `JavaScript`, `TypeScript`                 |
-| Frameworks and libs | `React`, `Angular`, `KnockoutJS`, `jQuery` |
-| State management    | `Mobx`                                     |
-| Testing             | `Jest`, `Jasmine`, `Karma`                 |
-| Styling             | `SASS`, `LESS`, `CSS`                      |
-| Bundlers            | `Webpack`                                  |
-| Other               | `RxJS`, `Storybook`, `axios`               |
+| Category            | Skills                                            |
+| ------------------- | ------------------------------------------------- |
+| General             | `JavaScript`, `TypeScript`                        |
+| Frameworks and libs | `React`, `Angular`, `KnockoutJS`, `jQuery`        |
+| State management    | `Mobx`                                            |
+| Testing             | `Jest`, `Jasmine`, `Karma`                        |
+| Styling             | `SASS`, `LESS`, `CSS`                             |
+| Bundlers            | `Webpack`                                         |
+| Other               | `RxJS`, `Storybook`, `axios`, `Chrome extensions` |
 
 ### Desktop
 
@@ -88,7 +88,20 @@ I mainly had worked in the next areas: retail and wholesale, information technol
 | Role             | Front-end lead, Team lead                                                                                                                                                                                                                                                     |
 | Responsibilities | Designing front-end applications, improvement of development processes, managing front-end stream (4 devs) and one of product sub-teams                                                                                                                                       |
 | Main achivements | Unit testing introduction and quality gates setup; reduced code duplication and maintenance cost by integrating monorepo approach                                                                                                                                             |
-| Tools and techs  | React, TypeScript, Mobx, LESS, Webpack, Azure                                                                                                                                                                                                                                 |
+| Tools and techs  | `React`, `TypeScript`, `Mobx`, `LESS`, `Webpack`, `Azure`                                                                                                                                                                                                                     |
+
+### 🌟 Retailment solution
+
+| Category         |                                                                                                                                                                                                                                                                                                                                                                       |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Duration         | 5 years *(2014 - 2019)*                                                                                                                                                                                                                                                                                                                                               |
+| Customer         | A US company that provides retailment solutions for top US and Canadian wholesalers                                                                                                                                                                                                                                                                                   |
+| Project          | The objective was to build and support systems (desktop, web, back-end and mobile) for ordering and analytics, provide solutions for in-store use with POS registers, and create back-end infrastructure.                                                                                                                                                             |
+| Team size        | ~25 team members                                                                                                                                                                                                                                                                                                                                                      |
+| Role             | Full-stack engineer, stream lead, tech lead                                                                                                                                                                                                                                                                                                                           |
+| Responsibilities | Developing web ordering and analytics systems, desktop ordering client with scanners integration, Raspberry PI solution for POC terminals. Development and maintenance of back-end services. Set up CI and development processes. Managed the development team. Worked on solution architecture and new ideas.                                                        |
+| Main achivements | Created and implemented a plan for migration from ASP.NET Web Forms to Angular (setup architecture, design, and dev processes). Introduced Nuget server. Designed scalable and configuration-based notification service. Integrated error analysis into the system. Provided a bunch of system improvements that improved maintainability and simplified development. |
+| Tools and techs  | `.NET`, `ASP.NET Web API`, `ASP.NET Web Forms`, `WPF`, `Angular`, `KnockoutJS`, `OData`, `Protobuf`, `PowerShell`, `Python `, `IIS`, `Jenkins`, `Sentry`, `DevExpress`, `DevExtreme`                                                                                                                                                                                  |
 
 
 <!--
