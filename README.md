@@ -99,10 +99,33 @@ I mainly had worked in the next areas: retail and wholesale, information technol
 | Project          | The objective was to build and support systems (desktop, web, back-end and mobile) for ordering and analytics, provide solutions for in-store use with POS registers, and create back-end infrastructure.                                                                                                                                                             |
 | Team size        | ~25 team members                                                                                                                                                                                                                                                                                                                                                      |
 | Role             | Full-stack engineer, stream lead, tech lead                                                                                                                                                                                                                                                                                                                           |
-| Responsibilities | Developing web ordering and analytics systems, desktop ordering client with scanners integration, Raspberry PI solution for POC terminals. Development and maintenance of back-end services. Set up CI and development processes. Managed the development team. Worked on solution architecture and new ideas.                                                        |
+| Responsibilities | Developing web ordering and analytics systems, desktop ordering client with scanners integration, Raspberry PI solution for POS terminals. Development and maintenance of back-end services. Set up CI and development processes. Managed the development team. Worked on solution architecture and new ideas.                                                        |
 | Main achivements | Created and implemented a plan for migration from ASP.NET Web Forms to Angular (setup architecture, design, and dev processes). Introduced Nuget server. Designed scalable and configuration-based notification service. Integrated error analysis into the system. Provided a bunch of system improvements that improved maintainability and simplified development. |
-| Tools and techs  | `.NET`, `ASP.NET Web API`, `ASP.NET Web Forms`, `WPF`, `Angular`, `KnockoutJS`, `OData`, `Protobuf`, `PowerShell`, `Python `, `IIS`, `Jenkins`, `Sentry`, `DevExpress`, `DevExtreme`                                                                                                                                                                                  |
+| Tools and techs  | `.NET`, `ASP.NET Web API`, `ASP.NET Web Forms`, `WPF`, `Angular`, `KnockoutJS`, `OData`, `Protobuf`, `PowerShell`, `Python`, `IIS`, `Jenkins`, `Sentry`, `DevExpress`, `DevExtreme`                                                                                                                                                                                   |
 
+### 🌟 GUI client for 3D models processing
+
+| Category         |                                                                                                          |
+| ---------------- | -------------------------------------------------------------------------------------------------------- |
+| Duration         | 2 months *(2020)*                                                                                        |
+| Customer         | A German company that providing solutions in Industry                                                    |
+| Project          | The objective was to build a GUI client to configure an algorithm that analyzes and processes 3D models. |
+| Team size        | 4 team members                                                                                           |
+| Role             | Software engineer                                                                                        |
+| Responsibilities | Developing WPF client for integration with CLI for 3D models processing algorithm.                       |
+| Tools and techs  | `WPF`, `WiX`, `Helix Toolkit`                                                                            |
+
+### 🌟 Financial solution
+
+| Category         |                                                                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Duration         | 6 months *(2020)*                                                                                                                     |
+| Customer         | A US company that providing solutions in Financial Industry                                                                           |
+| Project          | The purpose of this project was a solution for financial management.                                                                  |
+| Team size        | 20 team members (~300 with other teams)                                                                                               |
+| Role             | Full-stack software engineer                                                                                                          |
+| Responsibilities | Maintaining existing and creating new microservices and web solutions. Communication with other scrum teams for service integrations. |
+| Tools and techs  | `.NET`, `ASP.NET`, `Web Forms`, `jQuery`, `KnockoutJS`, `Angular`, `TFS`                                                              |
 
 <!--
 **mishani0x0ef/mishani0x0ef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
