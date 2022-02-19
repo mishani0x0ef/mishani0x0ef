@@ -4,7 +4,7 @@ I'm a professional software engineer **since 2014** with a passion for great pro
 
 I have worked with various technologies and mainly focused on, but not limited to, .NET and front-end (Angular, React).
 
-I like to work in product teams with the ability to fully own the development process (from the first line of code to production deployment), do not really like outstaff.
+I like to work in product teams with the ability to fully own the development process (from the first line of code to production deployment).
 
 🔎 Find me on:
 
@@ -16,7 +16,7 @@ I like to work in product teams with the ability to fully own the development pr
 
 ## 🏭 Industries
 
-I mainly had worked in the next areas: retail and wholesale, information technology and services, finances.
+I mainly had worked in the next areas: retail and wholesale, revenu systems, information technology and services, finances.
 
 ## 💪 Technical skills
 
@@ -40,7 +40,7 @@ I mainly had worked in the next areas: retail and wholesale, information technol
 | Testing              | `Moq`, `NUnit`, `NSubstitute`                           |
 | Other                | a bit of `Python` with `Flask`                          |
 
-> 💡 I strongly believe that API should be easy to use, must have good public documentation (e.g Swagger), and should be easy to build, test, and maintain.
+> 💡 I strongly believe that API should be easy to use, must be well documented, and should be easy to build, test, and maintain.
 
 ### Front-end
 
@@ -65,10 +65,10 @@ I mainly had worked in the next areas: retail and wholesale, information technol
 
 ## 👋 Soft skills
 
-* Ability to **communicate clearly**, raise questions, and proactively communicate about the problem, until a solution is found
+* Ability to **communicate clearly**, raise questions, proactively communicate about the problem, and find a solutions
 * Introduction of **new processes** into the dev teams
 * Conducting **code review** and setup code review process
-* Communication with other teams
+* Cross-teams communication
 * Conducting a technical interview
 * Setup of **quality gates**
 * Coordinate work between streams (back-end, front-end, QA, DevOps)
@@ -77,16 +77,16 @@ I mainly had worked in the next areas: retail and wholesale, information technol
 
 ## ⏱️ Experience
 
-### 🌟 Subscriptions and accounts management system
+### 🌟 Revenue system
 
 | Category         |                                                                                                                                                                                                                                                                               |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Duration         | more than 1 year *(Nov 2020 - now)*                                                                                                                                                                                                                                           |
-| Customer         | US software company that works with screen recording and capturing                                                                                                                                                                                                            |
-| Project          | Software system for user accounts and product subscriptions management. With this system users and admins can easily manage their software subscriptions and keys. The system exists in a larger ecosystem of microservices and 3-d party sub-system and integrate with them. |
+| Customer         | US software company that creates world-class screen recording and capturing solutions                                                                                                                                                                                                            |
+| Project          | Software system for user accounts and product subscriptions management. Solution provides ability to purchase software products. With this system users can easily manage their software subscriptions and keys. The system exists in a larger ecosystem of microservices and 3-d party sub-system. |
 | Team size        | ~25 team members                                                                                                                                                                                                                                                              |
 | Role             | Front-end lead, Team lead                                                                                                                                                                                                                                                     |
-| Responsibilities | Designing front-end applications, improvement of development processes, managing front-end stream (4 devs) and one of product sub-teams                                                                                                                                       |
+| Responsibilities | Designing front-end applications, improvement of development processes, provide technical descisions and explain them to the team, managing front-end stream (4 devs) and one of product sub-teams (7 members)                                                                                                                                      |
 | Main achivements | Unit testing introduction and quality gates setup; reduced code duplication and maintenance cost by integrating monorepo approach                                                                                                                                             |
 | Tools and techs  | `React`, `TypeScript`, `Mobx`, `LESS`, `Webpack`, `Azure`                                                                                                                                                                                                                     |
 
@@ -96,7 +96,7 @@ I mainly had worked in the next areas: retail and wholesale, information technol
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Duration         | 5 years *(2014 - 2019)*                                                                                                                                                                                                                                                                                                                                               |
 | Customer         | A US company that provides retailment solutions for top US and Canadian wholesalers                                                                                                                                                                                                                                                                                   |
-| Project          | The objective was to build and support systems (desktop, web, back-end and mobile) for ordering and analytics, provide solutions for in-store use with POS registers, and create back-end infrastructure.                                                                                                                                                             |
+| Project          | The objective was to build and support systems (desktop, web, back-end and mobile) for ordering and analytics around it, provide solutions for in-store use with POS registers, and create back-end infrastructure.                                                                                                                                                             |
 | Team size        | ~25 team members                                                                                                                                                                                                                                                                                                                                                      |
 | Role             | Full-stack engineer, stream lead, tech lead                                                                                                                                                                                                                                                                                                                           |
 | Responsibilities | Developing web ordering and analytics systems, desktop ordering client with scanners integration, Raspberry PI solution for POS terminals. Development and maintenance of back-end services. Set up CI and development processes. Managed the development team. Worked on solution architecture and new ideas.                                                        |
