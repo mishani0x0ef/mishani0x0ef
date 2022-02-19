@@ -16,7 +16,7 @@ I like to work in product teams with the ability to fully own the development pr
 
 ## 🏭 Industries
 
-I mainly had worked in the next areas: retail and wholesale, revenu systems, information technology and services, finances.
+I mainly had worked in the next areas: retail and wholesale, revenue systems, information technology and services, finances.
 
 ## 💪 Technical skills
 
